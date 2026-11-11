@@ -1,0 +1,21 @@
+{
+  "id": "org.archive.pdtest",
+  "version": "1.0.0",
+  "name": "Archive Public Domain",
+  "description": "Local test add-on: Big Buck Bunny, CC-BY Blender Foundation",
+  "types": [
+    "movie"
+  ],
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "pd",
+      "name": "Public Domain"
+    }
+  ]
+}

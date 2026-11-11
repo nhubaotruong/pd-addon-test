@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "Archive",
+      "title": "Big Buck Bunny 720p \u00b7 62 MB \u00b7 CC-BY",
+      "infoHash": "b63eaa9720ee797667ef58ea35ef7d81ab5d1c16",
+      "fileIdx": 10,
+      "sources": [
+        "tracker:http://bt1.archive.org:6969/announce",
+        "tracker:http://bt2.archive.org:6969/announce"
+      ]
+    }
+  ]
+}

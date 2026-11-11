@@ -1,0 +1,13 @@
+{
+  "metas": [
+    {
+      "id": "pd-bbb",
+      "type": "movie",
+      "name": "Big Buck Bunny",
+      "poster": "https://archive.org/services/img/BigBuckBunny_124",
+      "description": "Open movie by Blender Foundation, CC-BY 3.0. Torrent seeded by archive.org.",
+      "releaseInfo": "2008",
+      "runtime": "10 min"
+    }
+  ]
+}
